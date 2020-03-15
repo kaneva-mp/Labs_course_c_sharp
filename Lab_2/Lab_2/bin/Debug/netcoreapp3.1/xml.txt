@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <editionCount>3</editionCount>
+  <editions>
+    <Source xsi:type="Book">
+      <nameOfEdition>SomeBook</nameOfEdition>
+      <authorLastName>SomeAuthor</authorLastName>
+      <yearOfPublication>2020</yearOfPublication>
+      <publishing>SomePublishing</publishing>
+    </Source>
+    <Source xsi:type="Paper">
+      <nameOfEdition>SomePaper</nameOfEdition>
+      <authorLastName>SomeAuthor</authorLastName>
+      <releaseNumber>20</releaseNumber>
+      <yearOfPublication>2020</yearOfPublication>
+    </Source>
+    <Source xsi:type="EResources">
+      <nameOfEdition>SomeEResource</nameOfEdition>
+      <authorLastName>OtherAuthor</authorLastName>
+      <link>SomeLink</link>
+      <annotation>SomeAnnotation</annotation>
+    </Source>
+  </editions>
+</Catalog>

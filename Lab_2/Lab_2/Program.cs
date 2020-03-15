@@ -5,8 +5,8 @@ namespace Lab_2
 {
     class Program
     {
-        // <summary>
-        /// Переменная для хранения названия файла c xml
+        /// <summary>
+        /// Название файла с параметрами изданий
         /// </summary>
         private static string readFile = "input.txt";
 
@@ -68,6 +68,8 @@ namespace Lab_2
             catalog.PrintAllEditionsInformation();
             Console.WriteLine("Search");
             catalog.FindEdition("author");
+
+            catalog.serialize("xml.txt");
         }
     }
 }

@@ -1,4 +1,4 @@
-5
+3
 book|SomeBook|SomeAuthor|2020|SomePublishing
 paper|SomePaper|SomeAuthor|20|2020
 eresources|SomeEResource|OtherAuthor|SomeLink|SomeAnnotation
