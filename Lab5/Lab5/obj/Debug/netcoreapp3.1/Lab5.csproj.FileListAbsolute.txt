@@ -1,0 +1,11 @@
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/bin/Debug/netcoreapp3.1/Lab5
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/bin/Debug/netcoreapp3.1/Lab5.deps.json
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/bin/Debug/netcoreapp3.1/Lab5.runtimeconfig.json
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/bin/Debug/netcoreapp3.1/Lab5.runtimeconfig.dev.json
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/bin/Debug/netcoreapp3.1/Lab5.dll
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/bin/Debug/netcoreapp3.1/Lab5.pdb
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/obj/Debug/netcoreapp3.1/Lab5.csprojAssemblyReference.cache
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/obj/Debug/netcoreapp3.1/Lab5.AssemblyInfoInputs.cache
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/obj/Debug/netcoreapp3.1/Lab5.AssemblyInfo.cs
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/obj/Debug/netcoreapp3.1/Lab5.dll
+/Users/maria/Projects/Labs_course_c_sharp/Lab5/Lab5/obj/Debug/netcoreapp3.1/Lab5.pdb
