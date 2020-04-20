@@ -1,0 +1,10 @@
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\bin\Debug\Palette.exe.config
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\bin\Debug\Palette.exe
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\bin\Debug\Palette.pdb
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\obj\Debug\Palette.csprojAssemblyReference.cache
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\obj\Debug\Palette.Form1.resources
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\obj\Debug\Palette.Properties.Resources.resources
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\obj\Debug\Palette.csproj.GenerateResource.cache
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\obj\Debug\Palette.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\obj\Debug\Palette.exe
+C:\Users\Vlad Suhomlinov\source\repos\lab 7\Palette\obj\Debug\Palette.pdb
