@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<records>
+  <record>
+    <houseNumber>123</houseNumber>
+    <apartNumber>23</apartNumber>
+    <lastname>Masha</lastname>
+    <paymentType>квартплата</paymentType>
+    <paymentSum>34.2</paymentSum>
+    <paymentDate>24.01.2020</paymentDate>
+    <pennyPercent>0.33</pennyPercent>
+    <paymentDaysLeft>34</paymentDaysLeft>
+  </record>
+</records>
